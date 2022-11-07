@@ -1,7 +1,7 @@
 # VertexPaintLayers
 
 
-This Blender add-on creates a new panel in the side bar (n-panels?) where you can manage Colour Attributes as if they were layered.
+This Blender add-on creates a new panel in the side bar (n-panels?) where you can manage colour attributes as if they were layered.
 
 ### Installation
 
