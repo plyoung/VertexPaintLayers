@@ -17,7 +17,7 @@ The sync button will also rename the colour attributes to have the same name as 
 
 The up/down arrow buttons can be used to move layers. This does not affect the position of the actual attribute in the list of attributes.
 
-The Blend options (per layer, with selected layer’s values being displayed) determines what values are used in the MixRGB Node of the material. The 0 to 1 value is the factor and drop-down includes all the values you would find in the MixRGB node’s properties.
+The Blend options (per layer, with selected layerâ€™s values being displayed) determines what values are used in the MixRGB Node of the material. The 0 to 1 value is the factor and drop-down includes all the values you would find in the MixRGB nodeâ€™s properties.
 
 **Preview Material**
 
@@ -29,9 +29,7 @@ You can switch to ![](/img/002.png) _Viewport Shading: **Solid**_ to view the co
 
 ![](/img/003.png) 
 
-
 Use the `Unlit` and `Shaded` buttons to change what the final preview material looks like. They are basically the same except that the Shaded version has a Principled BSDF node added before the output.
-
 
 ![](/img/004.png) 
 
